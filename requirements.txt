@@ -1,0 +1,10 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.9.0+cu111
+torchvision==0.10.0+cu111
+paddleocr==2.0.6
+-f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html
+paddlepaddle-gpu==2.1.2.post110
+onnxruntime-gpu==1.8.1
+connexion
+opencv-python
+gdown
